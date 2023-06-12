@@ -1,0 +1,8 @@
+{
+  "name": "user-agent",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c70ccedb"
+}
